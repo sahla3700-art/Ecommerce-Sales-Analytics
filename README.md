@@ -42,7 +42,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook and o
 
 ## Project Files
 
-- `SahlaFathimaPS_EcommerceSalesAnalytics.ipynb` — complete notebook/code
 - `SahlaFathimaPS_EcommerceSalesAnalytics.py` — Python script version
 - `requirements.txt` — required Python libraries
 - `README.md` — project overview and setup instructions
